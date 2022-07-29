@@ -1,0 +1,16 @@
+
+AddressbookApplicationApi
+|-- sql_app
+|   |-- address      
+|   |   |-- __init__.py
+|   |   |-- crud.py
+|   |   |-- main.py
+|   |   |-- models.py
+|   |   |-- schemas.py
+|   |-- __init__.py
+|   |-- database.py
+|   |-- dependencies.py
+|   |-- main.py
+|-- .gitignore
+|-- structure.txt
+    
