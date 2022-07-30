@@ -1,7 +1,7 @@
 
 AddressbookApplicationApi
 |-- sql_app
-|   |-- address      
+|   |-- addressbook      
 |   |   |-- __init__.py
 |   |   |-- crud.py
 |   |   |-- main.py
