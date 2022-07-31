@@ -1,5 +1,5 @@
 
-from sqlalchemy import Boolean, Column, ForeignKey, Integer, String, Unicode, orm
+from sqlalchemy import Column, ForeignKey, Integer, String, Unicode, orm
 from sqlalchemy.orm import relationship
 from sqlalchemy_utils import EmailType,ChoiceType,PhoneNumber
 from ..database import Base
